@@ -1,13 +1,11 @@
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
-  "InternalName": "samplePlugin",
+  "Author": "Seralius",
+  "Name": "CopyItemname in Inv",
+  "Punchline": "Adds the \"Copy Item Name\" functionality into the Inventory",
+  "Description": "",
+  "InternalName": "CopyItemName",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "simple"
   ]
 }
